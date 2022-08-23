@@ -2,6 +2,7 @@ package lang.print.gaps.task5;
 
 public class NumberDivider {
     void divide(int toBeDivided) {
-            System.out.println((float)(toBeDivided / 5.0f));
+        float res = toBeDivided / 5.0f
+        System.out.println(res);
     }
 }
